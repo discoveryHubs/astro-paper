@@ -31,6 +31,9 @@ Here are some rules/recommendations, tips & ticks for creating new posts in Astr
 
 To write a new blog post, create a markdown file inside the `src/data/blog/` directory.
 
+![Sessions Court Building](/sessions.jpeg)
+
+
 > Prior to AstroPaper v5.1.0, all blog posts had to be in `src/data/blog/`, meaning you couldn't organize them into subdirectories.
 
 Starting from AstroPaper v5.1.0, you can now organize blog posts into subdirectories, making it easier to manage your content.
